@@ -1,0 +1,15 @@
+To Implement:
+    - Posts Array on fireStore
+    - get Pics from Database to home Page
+    - in app purchases
+    - Recommendation Algorithm
+    - filter nsfw content
+    - implement crypto
+    - design profile fragments
+
+
+To Improve:
+    - Async splash screen
+    - make cache
+    - Database optimization
+    - Other peoples profile screens / can pass args to normal profile page

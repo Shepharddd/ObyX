@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/icon_view"
+        android:title="Icon"
+        android:icon="@drawable/iconlayout"/>
+
+    <item
+        android:id="@+id/tile_view"
+        android:title="Tile"
+        android:icon="@drawable/tilelayout"/>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ObyX_test</string>
+    <string name="facebook_app_id">Facebook App ID</string>
+    <string name="facebook_client_token">Facebook Client ID</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="User_Name">User Name</string>
+</resources>
